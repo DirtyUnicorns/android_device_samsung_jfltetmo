@@ -13,6 +13,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-$(call inherit-product, device/samsung/jfltetmo/omni_jfltetmo.mk)
+$(call inherit-product, device/samsung/jfltetmo/du.mk)
 
-PRODUCT_NAME := aosp_jfltetmo
+PRODUCT_NAME := du_jfltetmo
